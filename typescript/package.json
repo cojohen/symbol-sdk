@@ -1,0 +1,23 @@
+{
+  "name": "@symbolmachines/memory",
+  "version": "0.1.0",
+  "description": "Symbol Machines Memory SDK — adds long-term memory to any LLM.",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "prepare": "npm run build"
+  },
+  "author": "Symbol Machines",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tsup": "^8.0.0",
+    "typescript": "^5.3.0"
+  }
+}
