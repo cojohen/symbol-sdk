@@ -1,6 +1,6 @@
 {
   "name": "@symbolmachines/memory",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Symbol Machines Memory SDK — adds long-term memory to any LLM.",
   "keywords": [
     "AI memory",
