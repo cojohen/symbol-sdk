@@ -40,7 +40,7 @@ await symbol.memory.save.create({
 Injects memory context into user input.
 
 `symbol.memory.save.create({ output })`
-Writes output into the Symbol Machines memory graph.
+Writes output into the Symbol's memory.
 
 ---
 
