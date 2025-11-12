@@ -2,7 +2,7 @@
 
 A lightweight SDK that adds structured long-term memory to any LLM.
 
-Modeled after OpenAI’s official SDK for developer compatibility.
+Learn more at https://symbolmachines.com
 
 ---
 
@@ -28,9 +28,11 @@ const context = await symbol.memory.inject.create({
 
 // Save memory afterward
 await symbol.memory.save.create({
-  output: "He likes sushi and healthy meals.",
+  output: "Eat sushi is a healthy meal.",
 });
 ```
+
+---
 
 ## API
 
@@ -39,6 +41,8 @@ Injects memory context into user input.
 
 `symbol.memory.save.create({ output })`
 Writes output into the Symbol Machines memory graph.
+
+---
 
 ## Configuration
 

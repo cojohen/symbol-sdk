@@ -2,6 +2,12 @@
   "name": "@symbolmachines/memory",
   "version": "0.1.0",
   "description": "Symbol Machines Memory SDK — adds long-term memory to any LLM.",
+  "keywords": [
+    "AI memory",
+    "AGI",
+    "long-term memory",
+    "Symbol Machines"
+  ],
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
