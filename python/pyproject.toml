@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "symbolmachines"
-version = "0.1.0"
+version = "0.1.1"
 description = "Symbol Machines Memory SDK — Long-term cognitive memory for any LLM."
 authors = [
     { name="Symbol Machines", email="joe@symbolmachines.com" }
@@ -25,4 +25,4 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://symbolmachines.com"
-Repository = "https://github.com/cojohen/symbol-sdk/python"
+Repository = "https://github.com/cojohen/symbol-sdk"
